@@ -14,7 +14,7 @@ scikit-learn==0.23.1
 scipy==1.11.1
 sklearn==0.0
 threadpoolctl==2.1.0
-urllib3==1.26.18
+urllib3==1.26.19
 #Werkzeug==1.0.1 ## This is a vulnarable package
 wincertstore==0.2
 gunicorn
